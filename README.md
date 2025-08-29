@@ -1,2 +1,3 @@
 # Aprendendo-Git
-Thayssa Andrade e Joao Matheus Lamao
+Hello, my name is Thayssa Andrade.
+I study Data Base!
